@@ -1,0 +1,4 @@
+String 方法使用()
+{
+chars() :接收int类型,返回char类型;
+}
